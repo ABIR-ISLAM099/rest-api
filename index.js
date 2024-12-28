@@ -1,6 +1,6 @@
 const express = require('express');
 
-const { alldl } = require('imran-dlmedia');
+const { alldl } = require('imran-alldl');
 const path = require('path');
 const axios = require('axios')
 
