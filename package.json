@@ -1,6 +1,6 @@
 {
   "name": "Rest-Api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "@types/node": "^18.0.6",
     "axios": "^1.7.8",
     "express": "^4.21.1",
-    "imran-alldl": "^0.0.6"
+    "imran-alldl": "^0.0.6",
+    "semver": "^7.6.3"
   }
 }
